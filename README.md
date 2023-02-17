@@ -11,5 +11,5 @@
 ... ```secretkey2 = key1^(secre2) mod prime1```
 7. secretkey1 == secretkey2, and that is the **key**
 
-### ui with sample text
+### sample test
 ![image](https://user-images.githubusercontent.com/52037251/219642084-6b441952-f2b7-46e1-af3c-c533e39eb2d9.png)

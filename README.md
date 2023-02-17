@@ -57,12 +57,12 @@ key2 = diffie(int.Parse(prime2tb.Text), int.Parse(secret2tb.Text), int.Parse(pri
 ```
 
 6. generate another key for the generated keys which will be labeled as **secret key**
-... secretkey1 = key2^(secret1) mod prime1
+- secretkey1 = key2^(secret1) mod prime1
 ```
 secretkey1 = diffie(key2, int.Parse(secret1tb.Text), int.Parse(prime1tb.Text));
 ```
 
-... secretkey2 = key1^(secre2) mod prime1
+- secretkey2 = key1^(secre2) mod prime1
 ```
 secretkey2 = diffie(key1, int.Parse(secret2tb.Text), int.Parse(prime1tb.Text));
 ```

@@ -38,6 +38,7 @@
 ```
 
 3. generate key 1 ```key1 = prime2^(secret1) mod prime1```
+
 *_generating the key makes use of this formula_*
 ```
             if (b == 1)

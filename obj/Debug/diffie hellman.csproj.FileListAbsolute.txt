@@ -1,0 +1,11 @@
+A:\repository\diffie-hellman\bin\Debug\diffie hellman.exe.config
+A:\repository\diffie-hellman\bin\Debug\diffie hellman.exe
+A:\repository\diffie-hellman\bin\Debug\diffie hellman.pdb
+A:\repository\diffie-hellman\obj\Debug\diffie hellman.csproj.AssemblyReference.cache
+A:\repository\diffie-hellman\obj\Debug\diffie hellman.csproj.SuggestedBindingRedirects.cache
+A:\repository\diffie-hellman\obj\Debug\diffie_hellman.Form1.resources
+A:\repository\diffie-hellman\obj\Debug\diffie_hellman.Properties.Resources.resources
+A:\repository\diffie-hellman\obj\Debug\diffie hellman.csproj.GenerateResource.cache
+A:\repository\diffie-hellman\obj\Debug\diffie hellman.csproj.CoreCompileInputs.cache
+A:\repository\diffie-hellman\obj\Debug\diffie hellman.exe
+A:\repository\diffie-hellman\obj\Debug\diffie hellman.pdb
